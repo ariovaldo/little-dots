@@ -1,0 +1,35 @@
+td, th {
+     width: auto;
+ }
+ 
+ td.min, th.min {
+     width: 1%;
+     white-space: nowrap;
+ }
+
+ td.medium, th.medium {
+     width: 15%;
+     white-space: nowrap;
+ }
+ 
+ .textPontos{
+     width: 100%;
+ }
+
+ .teste{
+    border: 1px solid gray;
+    min-width: 27px;
+    
+    text-align: center;
+    white-space: nowrap;
+ }
+
+ .erro{
+    border: 1px solid crimson;
+    background-color: #EBCCCC;
+    color: crimson;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+ }
